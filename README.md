@@ -14,35 +14,35 @@ If you're a [CLI](#cli---command-line-interface) jockey like me, it's trivial to
 
 This list is mostly unstructured at the moment but I'm open to recommendations via pull request or comment.  At this point, my best suggestion is to keep things alphabetized.  Maybe at some point we'll organize by category or something more suitable.
 
-## A Alpha
-## B Bravo
-## C Charlie
+## A - Alpha
+## B - Bravo
+## C - Charlie
 #### CLI - Command Line Interface
-## D Delta
-## E Echo
-## F Foxtrot
+## D - Delta
+## E - Echo
+## F - Foxtrot
 #### FBFO - Fall Back Fail Over
 Typically used in the context of systems or service availability.
-## G Golf
+## G - Golf
 #### grep - Global regular expression print
-## H Hotel
-## I Indigo
-## J Juliet
-## K Kilo
-## L Lima
-## M Mike
-## N November
-## O Oscar
-## P Papa
-## Q Quebec
-## R Romeo
-## S Sierra
+## H - Hotel
+## I - Indigo
+## J - Juliet
+## K - Kilo
+## L - Lima
+## M - Mike
+## N - November
+## O - Oscar
+## P - Papa
+## Q - Quebec
+## R - Romeo
+## S - Sierra
 #### sed - Stream Editor
 #### SEO - Search Engine Optimization
 #### SRE - Site Reliability Engineer
-## T Tango
-## U Unicorn
-## V Victor
-## W Whiskey
-## Y Yankee
-## Z Zulu
+## T - Tango
+## U - Unicorn
+## V - Victor
+## W - Whiskey
+## Y - Yankee
+## Z - Zulu
