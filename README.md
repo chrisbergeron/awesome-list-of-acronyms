@@ -20,33 +20,23 @@ This list is mostly unstructured at the moment but I'm open to recommendations v
 
 # C
 
-## CLI
-Command Line Interface
+CLI - Command Line Interface
 
 # D
 
 # E
 
 # F
-## FBFO
-**Fall Back Fail Over**
+
+FBFO - Fall Back Fail Over
 Typically used in the context of systems or service availability.
 
 # G
-## grep
-Global regular expression print
+
+grep - Global regular expression print
 
 # S
 
-## sed
-Stream Editor
-
-## SEO
-Search Engine Optimization
-
-# G
-## grep
-Global regular expression print
-
-## SRE
-Site Reliability Engineer
+sed - Stream Editor
+SEO - Search Engine Optimization
+SRE - Site Reliability Engineer
