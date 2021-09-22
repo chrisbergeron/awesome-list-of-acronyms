@@ -37,9 +37,9 @@ Typically used in the context of systems or service availability.
 ## Q Quebec
 ## R Romeo
 ## S Sierra
-sed - Stream Editor
-SEO - Search Engine Optimization
-SRE - Site Reliability Engineer
+#### sed - Stream Editor
+#### SEO - Search Engine Optimization
+#### SRE - Site Reliability Engineer
 ## T Tango
 ## U Unicorn
 ## V Victor
