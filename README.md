@@ -14,7 +14,7 @@ If you're a [CLI](#cli---command-line-interface) jockey like me, it's trivial to
 
 This list is mostly unstructured at the moment but I'm open to recommendations via pull request or comment.  At this point, my best suggestion is to keep things alphabetized.  Maybe at some point we'll organize by category or something more suitable.
 
-You can edit this list [on the github Awesome List of Acronyms Repo](https://github.com/chrisbergeron/awesome-list-of-acronyms/blob/main/README.md).
+You can edit this list [on the github Awesome List of Acronyms Repo](https://github.com/chrisbergeron/awesome-list-of-acronyms/).
 
 ## A - Alpha
 ## B - Bravo
