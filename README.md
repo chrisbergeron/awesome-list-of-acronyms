@@ -20,7 +20,7 @@ This list is mostly unstructured at the moment but I'm open to recommendations v
 
 ## C
 
-## CLI - Command Line Interface
+### CLI - Command Line Interface
 
 ## D
 
