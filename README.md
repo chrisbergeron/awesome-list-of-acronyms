@@ -44,5 +44,9 @@ Stream Editor
 ## SEO
 Search Engine Optimization
 
+# G
+## grep
+Global regular expression print
+
 ## SRE
 Site Reliability Engineer
