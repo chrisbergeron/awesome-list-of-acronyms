@@ -14,29 +14,19 @@ If you're a [CLI](#CLI) jockey like me, it's trivial to create a shell script or
 
 This list is mostly unstructured at the moment but I'm open to recommendations via pull request or comment.  At this point, my best suggestion is to keep things alphabetized.  Maybe at some point we'll organize by category or something more suitable.
 
-## A
-
-## B
-
-## C
-
-### CLI - Command Line Interface
-
-## D
-
-## E
-
-## F
-
-### FBFO - Fall Back Fail Over
+### A
+### B
+### C
+#### CLI - Command Line Interface
+### D
+### E
+### F
+#### FBFO - Fall Back Fail Over
 Typically used in the context of systems or service availability.
+### G
+#### grep - Global regular expression print
 
-## G
-
-### grep - Global regular expression print
-
-## S
-
+### S
 sed - Stream Editor
 SEO - Search Engine Optimization
 SRE - Site Reliability Engineer
