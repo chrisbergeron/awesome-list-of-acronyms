@@ -30,6 +30,9 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 | FBFO    | Fall Back / Fail Over | Typically used in the context of systems or service availability. |
 ## G - Golf
 #### grep - Global regular expression print
+| Acronym | Meaning                         | *Description (optional)*          |
+|---------|---------------------------------|-----------------------------------|
+| grep    | Global regular expression print |                                   |
 ## H - Hotel
 ## I - Indigo
 ## J - Juliet
