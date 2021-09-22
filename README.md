@@ -25,8 +25,9 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 ## D - Delta
 ## E - Echo
 ## F - Foxtrot
-#### FBFO - Fall Back Fail Over
-Typically used in the context of systems or service availability.
+| Acronym | Meaning               | *Description (optional)*                                          |
+|---------|-----------------------|-------------------------------------------------------------------|
+| FBFO    | Fall Back / Fail Over | Typically used in the context of systems or service availability. |
 ## G - Golf
 #### grep - Global regular expression print
 ## H - Hotel
@@ -41,9 +42,11 @@ Typically used in the context of systems or service availability.
 ## Q - Quebec
 ## R - Romeo
 ## S - Sierra
-#### sed - Stream Editor
-#### SEO - Search Engine Optimization
-#### SRE - Site Reliability Engineer
+| Acronym | Meaning                    | *Description (optional)* |
+|---------|----------------------------|--------------------------|
+| sed     | Stream Editor              |                          |
+| SEO     | Search Engine Optimization |                          |
+| SRE     | Site Reliability Engineer  |                          |
 ## T - Tango
 ## U - Unicorn
 ## V - Victor
