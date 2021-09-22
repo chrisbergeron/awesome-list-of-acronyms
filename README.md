@@ -19,7 +19,8 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 ## A - Alpha
 ## B - Bravo
 ## C - Charlie
-#### CLI - Command Line Interface
+|-----|------------------------|-----------------------------------------------------|
+| CLI | Command Line Interface | *Typically used in a computer terminal environment* |
 ## D - Delta
 ## E - Echo
 ## F - Foxtrot
