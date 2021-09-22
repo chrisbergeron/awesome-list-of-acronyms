@@ -27,5 +27,9 @@ Command Line Interface
 
 ...
 
+# G
+## grep
+Global regular expression print
+
 ## SRE
 Site Reliability Engineer
