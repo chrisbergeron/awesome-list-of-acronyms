@@ -21,60 +21,77 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 |---------|------------------------|-----------------------------------------------------|
 | ACL     | Access Control List    |                                                     |
 | AWS | Amazon Web Services | |
+
 ## B - Bravo
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
+
 ## C - Charlie
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 | CLI     | Command Line Interface | *Typically used in a computer terminal environment* |
+
 ## D - Delta
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 | DC | DirectConnect ||
+
 ## E - Echo
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
+
 ## F - Foxtrot
 | Acronym | Meaning               | *Description (optional)*                                          |
 |---------|-----------------------|-------------------------------------------------------------------|
 | FBFO    | Fall Back / Fail Over | Typically used in the context of systems or service availability. |
+
 ## G - Golf
 | Acronym | Meaning                         | *Description (optional)*          |
 |---------|---------------------------------|-----------------------------------|
 | grep    | Global regular expression print |                                   |
+
 ## H - Hotel
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
+
 ## I - Indigo
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 | IPC | Inter-Process Communication ||
+
 ## J - Juliet
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
+|||
+
 ## K - Kilo
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
+|||
+
 ## L - Lima
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
+
 ## M - Mike
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
+
 ## N - November
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
+
 ## O - Oscar
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
+
 ## P - Papa
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
@@ -82,10 +99,12 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 ## Q - Quebec
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
+|||
 
 ## R - Romeo
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
+|||
 
 ## S - Sierra
 | Acronym | Meaning                    | *Description (optional)* |
@@ -93,24 +112,33 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 | sed     | Stream Editor              |                          |
 | SEO     | Search Engine Optimization |                          |
 | SRE     | Site Reliability Engineer  |                          |
+
 ## T - Tango
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
+|||
 
 ## U - Unicorn
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
+|||
 
 ## V - Victor
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 | VIP | Virtual IP | |
+
 ## W - Whiskey
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
+|||
 
 ## Y - Yankee
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
+|||
 
 ## Z - Zulu
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+|||
