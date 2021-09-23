@@ -20,12 +20,16 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 | ACL     | Access Control List    |                                                     |
+| AWS | Amazon Web Services | |
 ## B - Bravo
 ## C - Charlie
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 | CLI     | Command Line Interface | *Typically used in a computer terminal environment* |
 ## D - Delta
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+| DC | DirectConnect ||
 ## E - Echo
 ## F - Foxtrot
 | Acronym | Meaning               | *Description (optional)*                                          |
@@ -56,6 +60,9 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 ## T - Tango
 ## U - Unicorn
 ## V - Victor
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+| VIP | Virtual IP | |
 ## W - Whiskey
 ## Y - Yankee
 ## Z - Zulu
