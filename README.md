@@ -56,7 +56,7 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 
 ## H - Hotel
 |---------|------------------------|-----------------------------------------------------|
-|HID|Human Input Device | usb
+| HID | Human Input Device | usb
 
 ## I - Indigo
 | Acronym | Meaning                | *Description (optional)*                            |
