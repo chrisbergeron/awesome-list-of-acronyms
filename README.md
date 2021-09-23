@@ -17,6 +17,9 @@ This list is mostly unstructured at the moment but I'm open to recommendations v
 You can edit this list [on the github Awesome List of Acronyms Repo](https://github.com/chrisbergeron/awesome-list-of-acronyms/).
 
 ## A - Alpha
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+| ACL     | Access Control List    |                                                     |
 ## B - Bravo
 ## C - Charlie
 | Acronym | Meaning                | *Description (optional)*                            |
