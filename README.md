@@ -23,6 +23,7 @@ For now, we're formatting them like this:
 
 ## A
 *alpha*
+| | |
 |---------|------------------------|-----------------------------------------------------|
 | ACL     | Access Control List    |                                                     |
 | AWS | Amazon Web Services | |
