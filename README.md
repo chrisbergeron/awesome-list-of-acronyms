@@ -16,43 +16,41 @@ This list is mostly unstructured at the moment but I'm open to recommendations v
 
 You can edit this list [on the github Awesome List of Acronyms Repo](https://github.com/chrisbergeron/awesome-list-of-acronyms/).
 
+For now, we're formatting them like this:
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+|   XYZ   | Xtra Yummy piZZa       | typically used in food contexts                     |
+
 ## A
 *alpha*
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 | ACL     | Access Control List    |                                                     |
 | AWS | Amazon Web Services | |
 
 ## B
 *bravo*
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
 
 ## C - Charlie
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 | CLI     | Command Line Interface | *Typically used in a computer terminal environment* |
 
 ## D - Delta
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 | DC | DirectConnect ||
 | DC | Data Center ||
 | DNS | Domain Name Service ||
 
 ## E - Echo
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
 
 ## F - Foxtrot
-| Acronym | Meaning               | *Description (optional)*                                          |
 |---------|-----------------------|-------------------------------------------------------------------|
 | FBFO    | Fall Back / Fail Over | Typically used in the context of systems or service availability. |
 
 ## G - Golf
-| Acronym | Meaning                         | *Description (optional)*          |
 |---------|---------------------------------|-----------------------------------|
 | grep    | Global regular expression print |                                   |
 
@@ -61,56 +59,45 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 | HID | Human Input Device | usb
 
 ## I - Indigo
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 | IPC | Inter-Process Communication ||
 
 ## J - Juliet
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |JIT|Just In Time| code
 
 ## K - Kilo
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
 
 ## L - Lima
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
 
 ## M - Mike
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
 
 ## N - November
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
 
 ## O - Oscar
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
 
 ## P - Papa
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 | PDU | Power Distribution Unit ||
 ## Q - Quebec
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
 
 ## R - Romeo
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
 
 ## S - Sierra
-| Acronym | Meaning                    | *Description (optional)* |
 |---------|----------------------------|--------------------------|
 | sed     | Stream Editor              |                          |
 | SOC | Security Operations Center | security
@@ -118,7 +105,6 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 | SRE     | Site Reliability Engineer  |                          |
 
 ## T - Tango
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 |||
 
