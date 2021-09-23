@@ -22,6 +22,9 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 | ACL     | Access Control List    |                                                     |
 | AWS | Amazon Web Services | |
 ## B - Bravo
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+|||
 ## C - Charlie
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
@@ -31,16 +34,21 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 |---------|------------------------|-----------------------------------------------------|
 | DC | DirectConnect ||
 ## E - Echo
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+|||
 ## F - Foxtrot
 | Acronym | Meaning               | *Description (optional)*                                          |
 |---------|-----------------------|-------------------------------------------------------------------|
 | FBFO    | Fall Back / Fail Over | Typically used in the context of systems or service availability. |
 ## G - Golf
-#### grep - Global regular expression print
 | Acronym | Meaning                         | *Description (optional)*          |
 |---------|---------------------------------|-----------------------------------|
 | grep    | Global regular expression print |                                   |
 ## H - Hotel
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+|||
 ## I - Indigo
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
@@ -54,19 +62,19 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 ## L - Lima
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
-
+|||
 ## M - Mike
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
-
+|||
 ## N - November
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
-
+|||
 ## O - Oscar
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
-
+|||
 ## P - Papa
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
