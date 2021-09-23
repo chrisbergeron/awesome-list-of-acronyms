@@ -36,6 +36,8 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 | DC | DirectConnect ||
+| DC | Data Center ||
+| DNS | Domain Name Service ||
 
 ## E - Echo
 | Acronym | Meaning                | *Description (optional)*                            |
@@ -94,7 +96,7 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 ## P - Papa
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
-
+| PDU | Power Distribution Unit ||
 ## Q - Quebec
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
