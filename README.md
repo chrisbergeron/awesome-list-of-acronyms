@@ -53,9 +53,8 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 | grep    | Global regular expression print |                                   |
 
 ## H - Hotel
-| Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
-|||
+|HID|Human Input Device | usb
 
 ## I - Indigo
 | Acronym | Meaning                | *Description (optional)*                            |
@@ -65,7 +64,7 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 ## J - Juliet
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
-|||
+|JIT|Just In Time| code
 
 ## K - Kilo
 | Acronym | Meaning                | *Description (optional)*                            |
@@ -110,6 +109,7 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 | Acronym | Meaning                    | *Description (optional)* |
 |---------|----------------------------|--------------------------|
 | sed     | Stream Editor              |                          |
+| SOC | Security Operations Center | security
 | SEO     | Search Engine Optimization |                          |
 | SRE     | Site Reliability Engineer  |                          |
 
