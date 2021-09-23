@@ -42,15 +42,43 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 | grep    | Global regular expression print |                                   |
 ## H - Hotel
 ## I - Indigo
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+| IPC | Inter-Process Communication ||
 ## J - Juliet
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
 ## K - Kilo
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
 ## L - Lima
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+
 ## M - Mike
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+
 ## N - November
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+
 ## O - Oscar
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+
 ## P - Papa
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+
 ## Q - Quebec
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+
 ## R - Romeo
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+
 ## S - Sierra
 | Acronym | Meaning                    | *Description (optional)* |
 |---------|----------------------------|--------------------------|
@@ -58,11 +86,23 @@ You can edit this list [on the github Awesome List of Acronyms Repo](https://git
 | SEO     | Search Engine Optimization |                          |
 | SRE     | Site Reliability Engineer  |                          |
 ## T - Tango
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+
 ## U - Unicorn
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+
 ## V - Victor
 | Acronym | Meaning                | *Description (optional)*                            |
 |---------|------------------------|-----------------------------------------------------|
 | VIP | Virtual IP | |
 ## W - Whiskey
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+
 ## Y - Yankee
+| Acronym | Meaning                | *Description (optional)*                            |
+|---------|------------------------|-----------------------------------------------------|
+
 ## Z - Zulu
